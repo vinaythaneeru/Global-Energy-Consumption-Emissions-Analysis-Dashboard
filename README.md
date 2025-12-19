@@ -32,5 +32,3 @@ This project analyzes global energy consumption, production, emissions, GDP, pop
 ## Outcome
 The project helps identify energy usage patterns, high-emission countries, and the relationship between energy consumption, economy, and population.
 
-## Author
-Vinay Thaneeru
