@@ -1,5 +1,4 @@
 # Global-Energy-Consumption-Emissions-Analysis-Dashboard
-# Global Energy Consumption & Emissions Analysis
 
 ## Project Overview
 This project analyzes global energy consumption, production, emissions, GDP, population, and per-capita metrics using SQL for data processing and Power BI for interactive visualization.
